@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://lenkasmruti30-prog.github.io/ArtFlow-Studio/sitemap.xml
